@@ -3,4 +3,8 @@ This is a repository for the code developed to produce the results in the paper 
 
 The paper focuses on the interference analysis and channel allocation and scheduling scheme in a CoMP enabled CR network.
 
+There is a short description at the beginning of each code depicting the function of the code.
+
+To perform the channel allocation and scheduling 'main.m' has to be run
+
 
